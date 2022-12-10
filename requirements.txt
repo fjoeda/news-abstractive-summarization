@@ -1,6 +1,6 @@
---find-links https://download.pytorch.org/whl/torch_stable.html
-
-torch==1.13.0+cpu
 transformers
 googletrans==3.1.0a0
 streamlit
+https://download.pytorch.org/whl/cpu/torch-1.13.0%2Bcpu-cp39-cp39-linux_x86_64.whl
+requests
+beautifulsoup4
